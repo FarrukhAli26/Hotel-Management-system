@@ -16,8 +16,4 @@ The project includes the following features:
 8. **Login System (Security)**: Secure the system with a robust login feature.
 9. **Display Room Availability**: Show available rooms for booking.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hotel-management-system.git
